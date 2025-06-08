@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📚 查看文档
+    url: https://ferrus-gate.docs.ecaps.top/
+    about: 查看完整的使用文档和 API 参考
+  - name: 💬 社区讨论
+    url: https://github.com/AptS-1547/FerrusGate/discussions
+    about: 参与社区讨论，分享想法和经验
+  - name: 🔧 贡献指南
+    url: https://github.com/AptS-1547/FerrusGate/blob/master/CONTRIBUTING.md
+    about: 了解如何为项目做贡献
